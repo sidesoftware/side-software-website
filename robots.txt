@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /Assetts/
+Disallow: /admin/
+Disallow: /plugins/
+Disallow: /App_Data/
+Disallow: /Models/
+Disallow: /Content/
+Disallow: /Scripts/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /sass/
+Allow: /
+
+Sitemap: https://www.sidesoftware.com/sitemap.xml
